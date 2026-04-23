@@ -2,7 +2,7 @@
 # 🤖 Projeto IA Generativa
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
 
 Este repositório contém estudos, experimentos e implementações práticas focadas em **Inteligência Artificial Generativa**. O objetivo principal é explorar como modelos de linguagem e outras arquiteturas podem ser utilizados para criar conteúdo, automatizar tarefas e resolver problemas complexos.
